@@ -132,7 +132,7 @@ yarn install
 [.console-input]
 [source,bash]
 ----
-gulp
+npx gulp
 ----
 
 The gulp will start will start a local site server at http://localhost:3000.
